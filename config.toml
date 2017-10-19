@@ -1,0 +1,5 @@
+baseURL = "https://ephimoff.github.io/hugo"
+languageCode = "en-us"
+title = "My New Hugo Site. Testing..."
+theme = "ananke"
+publishDir = "docs"
