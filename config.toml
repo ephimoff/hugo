@@ -1,5 +1,5 @@
-baseURL = "https://ephimoff.github.io/hugo"
+baseURL = "https://ephimoff.github.io/survivalship_bias"
 languageCode = "en-us"
-title = "My New Hugo Site. Testing..."
+title = "Survivalship Bias"
 theme = "ananke"
 publishDir = "docs"
