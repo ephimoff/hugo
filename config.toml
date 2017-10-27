@@ -1,5 +1,0 @@
-baseURL = "https://ephimoff.github.io/survivalship_bias"
-languageCode = "en-us"
-title = "Survivalship Bias"
-theme = "ananke"
-publishDir = "docs"
